@@ -1,7 +1,5 @@
 #include<stdio.h>
 
-#include<stdio.h>
-
 void reverseArray(int arr[], int start, int end)
 {
     int temp;
